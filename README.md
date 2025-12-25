@@ -67,8 +67,6 @@ API_KEY = "YOUR_TESTNET_API_KEY"
 SECRET_KEY = "YOUR_TESTNET_SECRET_KEY"
 ```
 
-> 🔴 **Important:** Do NOT commit real or sensitive API keys to a public repository.
-
 ---
 
 ### 3️⃣ Install Dependencies
@@ -159,7 +157,6 @@ Example log entry:
 Python Developer
 
 - GitHub: https://github.com/heetdudani
-- LinkedIn: *(add if available)*
 
 ---
 
