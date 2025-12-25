@@ -1,0 +1,50 @@
+2025-12-25 18:14:54,649 - INFO - Connected
+2025-12-25 18:15:25,004 - INFO - Placing BUY | ETHUSDT | qty=0.01
+2025-12-25 18:15:25,564 - INFO - Order success | ID=7845284717 | Status=NEW | symbol =ETHUSDT | side =BUY | type=MARKET
+2025-12-25 18:15:41,039 - INFO - Placing SELL | ETHUSDT | qty=0.01
+2025-12-25 18:15:41,410 - INFO - Order success | ID=7845285804 | Status=NEW | symbol =ETHUSDT | side =SELL | type=MARKET
+2025-12-25 18:17:32,144 - INFO - Placing BUY | BTCUSDT | qty=0.01
+2025-12-25 18:17:32,590 - INFO - Order success | ID=11149793344 | Status=NEW | symbol =BTCUSDT | side =BUY | type=LIMIT
+2025-12-25 18:17:46,071 - INFO - Placing SELL | BTCUSDT | qty=0.01
+2025-12-25 18:17:46,328 - INFO - Order success | ID=11149796410 | Status=NEW | symbol =BTCUSDT | side =SELL | type=LIMIT
+2025-12-25 18:21:55,287 - INFO - Connected
+2025-12-25 18:21:58,927 - INFO - Placing BUY | BB | qty=0.01
+2025-12-25 18:21:59,266 - INFO - Order Failed : APIError(code=-1121): Invalid symbol.
+2025-12-25 18:24:01,306 - INFO - Connected
+2025-12-25 18:24:04,799 - INFO - Placing BUY | BB | qty=0.01
+2025-12-25 18:24:05,068 - INFO - Order Failed : APIError(code=-1121): Invalid symbol.
+2025-12-25 18:26:13,982 - INFO - Connected
+2025-12-25 18:26:18,021 - INFO - Placing BUY | BB | qty=0.01
+2025-12-25 18:26:18,509 - INFO - Order Failed : APIError(code=-1121): Invalid symbol.
+2025-12-25 18:27:17,254 - INFO - Connected
+2025-12-25 18:27:38,742 - INFO - Connected
+2025-12-25 18:27:42,224 - INFO - Placing BUY | BB | qty=0.01
+2025-12-25 18:27:42,500 - INFO - Order Failed : APIError(code=-1121): Invalid symbol.
+2025-12-25 18:27:52,242 - INFO - Placing BUY | BTCUSDT | qty=0.01
+2025-12-25 18:27:52,597 - INFO - Order success | ID=11149955282 | Status=NEW | symbol =BTCUSDT | side =BUY | type=MARKET
+2025-12-25 18:27:55,778 - INFO - Placing SELL | BTCUSDT | qty=0.01
+2025-12-25 18:27:56,098 - INFO - Order success | ID=11149955801 | Status=NEW | symbol =BTCUSDT | side =SELL | type=MARKET
+2025-12-25 19:47:30,609 - INFO - Connected
+2025-12-25 19:47:44,191 - ERROR - Failed to fetch price for BTCSTUSDT: 'price'
+2025-12-25 19:47:46,469 - ERROR - Failed to fetch price for BTCSTUSDT: 'price'
+2025-12-25 19:47:51,565 - ERROR - Failed to fetch price for BTCSTUSDT: 'price'
+2025-12-25 19:47:56,684 - ERROR - Failed to fetch price for BTCSTUSDT: 'price'
+2025-12-25 19:48:01,506 - ERROR - Failed to fetch price for BTCSTUSDT: 'price'
+2025-12-25 19:49:34,626 - INFO - Placing BUY | BTCUSDT | qty=0.001
+2025-12-25 19:49:34,823 - INFO - Order Failed : APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-12-25 19:50:28,098 - INFO - Placing BUY | BTCUSDT | qty=0.001
+2025-12-25 19:50:28,444 - INFO - Order Failed : APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-12-25 19:54:30,968 - INFO - Placing BUY | BTCUSDT | qty=0.01
+2025-12-25 19:54:31,157 - INFO - Order success | ID=11151339328 | Status=NEW | symbol =BTCUSDT | side =BUY | type=MARKET
+2025-12-25 19:54:34,414 - INFO - Placing SELL | BTCUSDT | qty=0.01
+2025-12-25 19:54:34,660 - INFO - Order success | ID=11151339922 | Status=NEW | symbol =BTCUSDT | side =SELL | type=MARKET
+2025-12-25 19:55:20,878 - INFO - Connected
+2025-12-25 19:55:41,683 - INFO - Connected
+2025-12-25 19:55:59,111 - INFO - Placing BUY | BTCUSDT | qty=0.01
+2025-12-25 19:55:59,424 - INFO - Order success | ID=11151362915 | Status=NEW | symbol =BTCUSDT | side =BUY | type=MARKET
+2025-12-25 19:56:10,038 - INFO - Placing SELL | BTCUSDT | qty=0.01
+2025-12-25 19:56:10,338 - INFO - Order success | ID=11151365566 | Status=NEW | symbol =BTCUSDT | side =SELL | type=MARKET
+2025-12-25 19:56:35,175 - INFO - Placing BUY | ETHUSDT | qty=0.01
+2025-12-25 19:56:35,367 - INFO - Order success | ID=7846032136 | Status=NEW | symbol =ETHUSDT | side =BUY | type=MARKET
+2025-12-25 19:56:49,700 - INFO - Placing SELL | ETHUSDT | qty=0.01
+2025-12-25 19:56:49,885 - INFO - Order success | ID=7846033977 | Status=NEW | symbol =ETHUSDT | side =SELL | type=MARKET
